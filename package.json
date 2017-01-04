@@ -1,6 +1,6 @@
 {
   "name": "ng2-hello-world-library",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "scripts": {
     "lint": "tslint src/**/*.ts",
     "test": "karma start karma.conf.js"
@@ -12,7 +12,7 @@
   "author": {
     "name": "coodoo GmbH",
     "email": "mail@coodoo.de",
-    "url" : "http://coodoo.io"
+    "url": "http://coodoo.io"
   },
   "keywords": [
     "angular",

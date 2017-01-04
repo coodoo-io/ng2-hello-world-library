@@ -1,6 +1,6 @@
 {
   "name": "ng2-hello-world-library",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "scripts": {
     "lint": "tslint src/**/*.ts",
     "test": "karma start karma.conf.js"

@@ -1,6 +1,10 @@
 {
   "name": "ng2-hello-world-library",
+<<<<<<< HEAD
   "version": "0.2.0",
+=======
+  "version": "0.2.1",
+>>>>>>> d47cce7f36cf8dd62e0b979f1f5efbe9c38d802d
   "keywords": [
     "angular",
     "angular2"

@@ -1,0 +1,24 @@
+{
+  "name": "ng2-hello-world-library",
+  "version": "0.1.3",
+  "keywords": [
+    "angular",
+    "angular2"
+  ],
+  "author": {
+    "name": "Markus Kühle",
+    "email": "mail@coodoo.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coodoo-io/ng2-hello-world-library"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coodoo-io/ng2-hello-world-library/issues"
+  },
+  "main": "bundles/ng-bootstrap.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "peerDependencies": {}
+}

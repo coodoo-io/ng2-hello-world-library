@@ -11,7 +11,8 @@
   },
   "author": {
     "name": "coodoo GmbH",
-    "email": "mail@coodoo.de"
+    "email": "mail@coodoo.de",
+    "url" : "http://coodoo.io"
   },
   "keywords": [
     "angular",

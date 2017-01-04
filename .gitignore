@@ -2,10 +2,8 @@
 node_modules/*
 npm-debug.log
 
-# TypeScript
-*.js
-*.map
-*.d.ts
+# Build Folder
+/dist
 
 # JetBrains
 .idea

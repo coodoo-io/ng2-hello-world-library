@@ -1,6 +1,9 @@
 import {Component} from '@angular/core';
 
-@Component({selector: 'sample-component', template: `<h1>Hello World</h1>`})
+@Component({
+  selector: 'hello-world-component',
+  template: `<h1>Hello World coodoo library</h1>`
+})
 export class HelloWorldComponent {
   constructor() {}
 }
